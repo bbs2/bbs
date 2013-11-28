@@ -1,0 +1,130 @@
+.logo,.top-center
+{
+	width:100px;
+	height:60px;
+}
+.top-left
+{
+	float:left;
+}
+.top-right
+{
+	float:right;
+}
+.top-center
+{
+	float:center;
+}
+
+div.top-right span{
+         
+	font-family:"微软雅黑"；
+	border-width:100px;
+	font-size:14px；
+}
+
+
+div.guide ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+div.guide li
+{
+float:left;
+}
+
+div.guide a:link,a:visited
+{
+display:block;
+width:120px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+div.guide a:hover,a:active
+{
+background-color:#cc0000;
+}
+
+div.container
+{
+font-family:"微软雅黑"；
+width:100%;
+margin:0px;
+border:1px solid gray;
+line-height:250%;
+}
+div.header,div.footer
+{
+padding:0.5em;
+color:white;
+background-color:blue;
+clear:left;
+}
+div.footer{background:#000000}
+h1.header
+{
+padding:0;
+margin:0;
+}
+div.left
+{
+float:left;
+width:160px;
+margin:0;
+padding:1em;
+text-decoration:none;
+}
+div.content
+{
+float:center;
+margin-left:190px;
+margin-right:190px;
+border-left:1px solid gray;
+border-right:1px solid gray;
+padding:1em;
+}
+div.right
+{
+float:right;
+width:160px;
+margin:0;
+padding:1em;
+text-decoration:none;
+}
+
+</style>
+</head>
+<body>
+
+div.content ul
+{
+float:left;
+width:100%;
+
+
+list-style-type:none;
+}
+div.content a
+{
+float:left;
+width:7em;
+text-decoration:none;
+color:#8A2BE2;
+
+
+
+}
+div.content a:hover {background-color:red}
+div.content li {display:inline}
+
+
+
+
